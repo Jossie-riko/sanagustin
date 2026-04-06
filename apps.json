@@ -457,7 +457,7 @@
   },
     {
     "nombreapp": "Quien soy?",
-    "descripcion": "juego interactivo para reuniones, quien soy? consiste en adivinar por medio de pistas que animal o personaje eres, ¡gana quien adivine mas!",
+    "descripcion": "Juego interactivo para reuniones, quien soy? consiste en adivinar por medio de pistas que animal o personaje eres, ¡gana quien adivine mas!",
     "icono": "https://img.freepik.com/vector-gratis/silueta-signo-interrogacion-dibujada-mano_23-2150940534.jpg?semt=ais_hybrid&w=740&q=80",
     "grupo": "Lunes",
     "fecha": "2026-03-2",
@@ -467,5 +467,18 @@
     ],
     "actividad": "Capacitor-Expo",
     "url": "https://drive.google.com/file/d/1jCjl-W778AR9IZGuCB_nTTTR8bTS4ofb/view?usp=drive_link"
+  },
+      {
+    "nombreapp": "Piensa rapido",
+    "descripcion": "Juego retador, que mide tu destresa, agilidad y habilidad en un segundos",
+    "icono": "https://play-lh.googleusercontent.com/vfuErOPSi8NrWdFsNZy6gvWZnZ1xdml8N4dS2WBf4E6yUJCEa1pyJU2PtfoQ23PeQfE=s256-rw",
+    "grupo": "Lunes",
+    "fecha": "2026-04-6",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez", "Jossie Rico"
+    ],
+    "actividad": "Diploy",
+    "url": "https://drive.google.com/file/d/1LhLF_1iI3vkvuBXUrsCBpjimoNx0xETm/view?usp=drive_link"
   }
 ]
