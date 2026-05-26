@@ -480,5 +480,18 @@
     ],
     "actividad": "Diploy",
     "url": "https://drive.google.com/file/d/1LhLF_1iI3vkvuBXUrsCBpjimoNx0xETm/view?usp=drive_link"
+  },
+    {
+    "nombreapp": "Libres",
+    "descripcion": "Herramienta de juego que ayuda a llevar la puntuacion de las carambolas con exactitud, intuitivo y sin complicaciones.",
+    "icono": "https://play-lh.googleusercontent.com/uURKjEXNkMlAHAzokUhz0F-t5Kg6yEw6VEdPivHGCuSqd358IiOo0tfiMDzllESfGSg",
+    "grupo": "Lunes",
+    "fecha": "2026-05-25",
+    "id": 1,
+    "integrantes": [
+      "Sergio Suarez", "Jossie Rico"
+    ],
+    "actividad": "Deploy parejas",
+    "url": "https://libres-pwa.vercel.app/ "
   }
 ]
